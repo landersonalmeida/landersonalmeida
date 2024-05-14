@@ -1,6 +1,6 @@
 <div align="left">
-  <a href="https://www.linkedin.com/in/landersonalmeida/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-  <a href="https://instagram.com/_lan.almeida" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
+  <a href="https://www.linkedin.com/in/landersonalmeida/" title="My LinkedIn" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="https://instagram.com/_lan.almeida" title="My Instagram" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
 </div>
 
 ###
